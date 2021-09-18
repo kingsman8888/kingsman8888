@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+본 프로젝트는 kosmo88기 팀프로젝트 kosmo88erp시스템 입니다
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
